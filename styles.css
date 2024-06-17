@@ -12,3 +12,14 @@ body{
 body {
   background-color: var(--cor-de-fundo);
 }
+:root {
+  --cor-de-fundo: #35dd59;
+}
+
+body {
+  background-color: var(--cor-de-fundo);
+}
+
+h1 {
+  background-color: #c9195c;
+}
