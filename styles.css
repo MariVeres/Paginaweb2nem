@@ -1,7 +1,14 @@
 :root {
-  --cor-de-fundo: #EBECEE;
+  --cor-de-fundo: #4c82ee;
 }
 
 body{
+  background-color: var(--cor-de-fundo);
+}
+:root {
+  --cor-de-fundo: #6598ff;
+}
+
+body {
   background-color: var(--cor-de-fundo);
 }
